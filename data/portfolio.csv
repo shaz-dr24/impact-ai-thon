@@ -1,0 +1,7 @@
+client_id,client_type,asset,sector,allocation
+10234,Conservative,AAPL,Technology,0.40
+10234,Conservative,MSFT,Technology,0.35
+10234,Conservative,JPM,Banking,0.25
+20456,Moderate,GOOGL,Technology,0.45
+20456,Moderate,AMZN,Consumer,0.30
+20456,Moderate,XOM,Energy,0.25
